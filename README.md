@@ -15,3 +15,4 @@
   * Feature comparison(Might need to build a scraper of some sort).
   * Price.
   * Previous tenenants - Most difficult to obtain.
+  * Crime Data
